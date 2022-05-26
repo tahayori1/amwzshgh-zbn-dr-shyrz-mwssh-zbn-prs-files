@@ -1,0 +1,133 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "آموزش زبان در شیراز",
+    "description": "",
+    "home_page_url": "https://parsali.ir",
+    "feed_url": "https://parsali.ir/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "آموزشگاه زبان پارسا (تاسیس 1380)"
+    },
+    "items": [
+        {
+            "id": "https://parsali.ir/amwzsh-zbn-nrwjy-dr-shyrz.html",
+            "url": "https://parsali.ir/amwzsh-zbn-nrwjy-dr-shyrz.html",
+            "title": "آموزش زبان نروژی در شیراز",
+            "author": {
+                "name": "آموزشگاه زبان پارسا (تاسیس 1380)"
+            },
+            "tags": [
+            ],
+            "date_published": "۲۰۲۲-۰۵-۲۷T۰۰:۲۱:۱۷+۰۴:۳۰",
+            "date_modified": "۲۰۲۲-۰۵-۲۷T۰۰:۲۱:۱۷+۰۴:۳۰"
+        },
+        {
+            "id": "https://parsali.ir/amwzsh-zbn-hlndy-dr-shyrz.html",
+            "url": "https://parsali.ir/amwzsh-zbn-hlndy-dr-shyrz.html",
+            "title": "آموزش زبان هلندی در شیراز",
+            "author": {
+                "name": "آموزشگاه زبان پارسا (تاسیس 1380)"
+            },
+            "tags": [
+            ],
+            "date_published": "۲۰۲۲-۰۵-۲۷T۰۰:۲۱:۰۴+۰۴:۳۰",
+            "date_modified": "۲۰۲۲-۰۵-۲۷T۰۰:۲۱:۰۴+۰۴:۳۰"
+        },
+        {
+            "id": "https://parsali.ir/amwzsh-zbn-hndy-dr-shyrz.html",
+            "url": "https://parsali.ir/amwzsh-zbn-hndy-dr-shyrz.html",
+            "title": "آموزش زبان هندی در شیراز",
+            "author": {
+                "name": "آموزشگاه زبان پارسا (تاسیس 1380)"
+            },
+            "tags": [
+            ],
+            "date_published": "۲۰۲۲-۰۵-۲۷T۰۰:۲۰:۵۴+۰۴:۳۰",
+            "date_modified": "۲۰۲۲-۰۵-۲۷T۰۰:۲۰:۵۴+۰۴:۳۰"
+        },
+        {
+            "id": "https://parsali.ir/amwzsh-zbn-swydy-dr-shyrz.html",
+            "url": "https://parsali.ir/amwzsh-zbn-swydy-dr-shyrz.html",
+            "title": "آموزش زبان سوئدی در شیراز",
+            "author": {
+                "name": "آموزشگاه زبان پارسا (تاسیس 1380)"
+            },
+            "tags": [
+            ],
+            "date_published": "۲۰۲۲-۰۵-۲۷T۰۰:۲۰:۱۱+۰۴:۳۰",
+            "date_modified": "۲۰۲۲-۰۵-۲۷T۰۰:۲۰:۱۱+۰۴:۳۰"
+        },
+        {
+            "id": "https://parsali.ir/amwzsh-zbn-jpny-dr-shyrz.html",
+            "url": "https://parsali.ir/amwzsh-zbn-jpny-dr-shyrz.html",
+            "title": "آموزش زبان ژاپنی در شیراز",
+            "author": {
+                "name": "آموزشگاه زبان پارسا (تاسیس 1380)"
+            },
+            "tags": [
+            ],
+            "date_published": "۲۰۲۲-۰۵-۲۷T۰۰:۱۹:۳۸+۰۴:۳۰",
+            "date_modified": "۲۰۲۲-۰۵-۲۷T۰۰:۱۹:۳۸+۰۴:۳۰"
+        },
+        {
+            "id": "https://parsali.ir/amwzsh-zbn-khrh-y-dr-shyrz.html",
+            "url": "https://parsali.ir/amwzsh-zbn-khrh-y-dr-shyrz.html",
+            "title": "آموزش زبان کره ای در شیراز",
+            "author": {
+                "name": "آموزشگاه زبان پارسا (تاسیس 1380)"
+            },
+            "tags": [
+            ],
+            "date_published": "۲۰۲۲-۰۵-۲۷T۰۰:۱۹:۲۶+۰۴:۳۰",
+            "date_modified": "۲۰۲۲-۰۵-۲۷T۰۰:۱۹:۲۶+۰۴:۳۰"
+        },
+        {
+            "id": "https://parsali.ir/amwzsh-zbn-chyny-dr-shyrz.html",
+            "url": "https://parsali.ir/amwzsh-zbn-chyny-dr-shyrz.html",
+            "title": "آموزش زبان چینی در شیراز",
+            "author": {
+                "name": "آموزشگاه زبان پارسا (تاسیس 1380)"
+            },
+            "tags": [
+            ],
+            "date_published": "۲۰۲۲-۰۵-۲۷T۰۰:۱۹:۱۶+۰۴:۳۰",
+            "date_modified": "۲۰۲۲-۰۵-۲۷T۰۰:۱۹:۱۶+۰۴:۳۰"
+        },
+        {
+            "id": "https://parsali.ir/amwzsh-zbn-ytlyyy-dr-shyrz.html",
+            "url": "https://parsali.ir/amwzsh-zbn-ytlyyy-dr-shyrz.html",
+            "title": "آموزش زبان ایتالیایی در شیراز",
+            "author": {
+                "name": "آموزشگاه زبان پارسا (تاسیس 1380)"
+            },
+            "tags": [
+            ],
+            "date_published": "۲۰۲۲-۰۵-۲۷T۰۰:۱۹:۰۵+۰۴:۳۰",
+            "date_modified": "۲۰۲۲-۰۵-۲۷T۰۰:۱۹:۰۵+۰۴:۳۰"
+        },
+        {
+            "id": "https://parsali.ir/amwzsh-zbn-spnyyy-dr-shyrz.html",
+            "url": "https://parsali.ir/amwzsh-zbn-spnyyy-dr-shyrz.html",
+            "title": "آموزش زبان اسپانیایی در شیراز",
+            "author": {
+                "name": "آموزشگاه زبان پارسا (تاسیس 1380)"
+            },
+            "tags": [
+            ],
+            "date_published": "۲۰۲۲-۰۵-۲۷T۰۰:۱۸:۵۷+۰۴:۳۰",
+            "date_modified": "۲۰۲۲-۰۵-۲۷T۰۰:۱۸:۵۷+۰۴:۳۰"
+        },
+        {
+            "id": "https://parsali.ir/amwzsh-aarby-khlyjy-dr-shyrz.html",
+            "url": "https://parsali.ir/amwzsh-aarby-khlyjy-dr-shyrz.html",
+            "title": "آموزش عربی خلیجی در شیراز",
+            "author": {
+                "name": "آموزشگاه زبان پارسا (تاسیس 1380)"
+            },
+            "tags": [
+            ],
+            "date_published": "۲۰۲۲-۰۵-۲۷T۰۰:۱۸:۲۰+۰۴:۳۰",
+            "date_modified": "۲۰۲۲-۰۵-۲۷T۰۰:۱۸:۲۰+۰۴:۳۰"
+        }
+    ]
+}
