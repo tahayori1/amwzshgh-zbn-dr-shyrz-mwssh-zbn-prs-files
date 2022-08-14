@@ -1,0 +1,1 @@
+importScripts('https://van.najva.com/static/js/scripts/parsali-website-40385-1c3adb6b-a116-4bc6-a1a3-09f832b7a3cc-service-worker.js');
