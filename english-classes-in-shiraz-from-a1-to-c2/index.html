@@ -2,7 +2,7 @@
     const fpPromise = import('https://fpcdn.io/v3/5CEELigfkEuU7m9EdRWh')
       .then(FingerprintJS => FingerprintJS.load())
 
-    // Get the visitor identifier when you need it.
+//Get the visitor identifier when you need it.
     fpPromise
       .then(fp => fp.get())
       .then(result => {
