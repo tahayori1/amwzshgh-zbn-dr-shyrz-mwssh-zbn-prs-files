@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://parsali.ir/learn-french-with-faride-hejazi-files/sitemap.xml
